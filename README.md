@@ -14,19 +14,3 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-
-<h3>Where to find me</h3>
-<p>
-<a href="https://github.com/4hmetuyar" target="_blank">
-<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ahmetuyar" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@ahmetuyar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
-
-
-![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
-
-- 🔭 I’m currently working on .NET Core
-- 🌱 I’m currently learning .NET Core and AngularJS
-- 💬 Ask me about c# and JavaScript
