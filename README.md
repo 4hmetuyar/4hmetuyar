@@ -19,10 +19,6 @@ I'm a passionate developer who loves creating amazing digital experiences. I enj
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4hmetuyar&show_icons=true&theme=radical)
-
 ## 🔥 Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4hmetuyar&theme=radical)
